@@ -1,0 +1,14 @@
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.AssemblyReference.cache
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.exe
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.deps.json
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.json
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.dev.json
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+X:\CAMP Tings\.NET CAMP\FirstConsoleApplication\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.genruntimeconfig.cache

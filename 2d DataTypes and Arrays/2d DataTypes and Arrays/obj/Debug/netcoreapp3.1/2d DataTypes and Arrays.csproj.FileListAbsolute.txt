@@ -1,0 +1,14 @@
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.exe
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.deps.json
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.runtimeconfig.json
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.runtimeconfig.dev.json
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.dll
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2d DataTypes and Arrays.pdb
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.csproj.AssemblyReference.cache
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.AssemblyInfoInputs.cache
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.AssemblyInfo.cs
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.csproj.CoreCompileInputs.cache
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.dll
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.pdb
+X:\CAMP Tings\.NET CAMP\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2d DataTypes and Arrays.genruntimeconfig.cache
