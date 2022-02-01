@@ -1,0 +1,14 @@
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.exe
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.deps.json
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.runtimeconfig.json
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.runtimeconfig.dev.json
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.dll
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\bin\Debug\netcoreapp3.1\2DDataTypesAndArrays.pdb
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.csproj.AssemblyReference.cache
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.AssemblyInfoInputs.cache
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.AssemblyInfo.cs
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.csproj.CoreCompileInputs.cache
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.dll
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.pdb
+X:\CAMP\.NET\2d DataTypes and Arrays\2d DataTypes and Arrays\obj\Debug\netcoreapp3.1\2DDataTypesAndArrays.genruntimeconfig.cache

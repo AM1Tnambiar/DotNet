@@ -1,0 +1,14 @@
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.csproj.AssemblyReference.cache
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.AssemblyInfoInputs.cache
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.AssemblyInfo.cs
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.csproj.CoreCompileInputs.cache
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.exe
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.deps.json
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.runtimeconfig.json
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.runtimeconfig.dev.json
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.dll
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.pdb
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.dll
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.pdb
+X:\CAMP\.NET\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.genruntimeconfig.cache

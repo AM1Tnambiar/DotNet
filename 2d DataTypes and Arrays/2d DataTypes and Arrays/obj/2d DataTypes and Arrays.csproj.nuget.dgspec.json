@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\CAMP Tings\\.NET CAMP\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj": {}
+    "X:\\CAMP\\.NET\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj": {}
   },
   "projects": {
-    "X:\\CAMP Tings\\.NET CAMP\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj": {
+    "X:\\CAMP\\.NET\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\CAMP Tings\\.NET CAMP\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj",
+        "projectUniqueName": "X:\\CAMP\\.NET\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj",
         "projectName": "2d DataTypes and Arrays",
-        "projectPath": "X:\\CAMP Tings\\.NET CAMP\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj",
+        "projectPath": "X:\\CAMP\\.NET\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\2d DataTypes and Arrays.csproj",
         "packagesPath": "C:\\Users\\amitn\\.nuget\\packages\\",
-        "outputPath": "X:\\CAMP Tings\\.NET CAMP\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\obj\\",
+        "outputPath": "X:\\CAMP\\.NET\\2d DataTypes and Arrays\\2d DataTypes and Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amitn\\AppData\\Roaming\\NuGet\\NuGet.Config",
