@@ -1,0 +1,14 @@
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.exe
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.deps.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.runtimeconfig.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.runtimeconfig.dev.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.dll
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\OOPSQuestions.pdb
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.csproj.AssemblyReference.cache
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.AssemblyInfoInputs.cache
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.AssemblyInfo.cs
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.csproj.CoreCompileInputs.cache
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.dll
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.pdb
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\OOPSQuestions.genruntimeconfig.cache

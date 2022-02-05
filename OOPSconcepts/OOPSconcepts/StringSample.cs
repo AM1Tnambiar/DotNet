@@ -5,9 +5,9 @@ using System.Text;
 namespace OOPSconcepts
 {
     class StringSample
-    {
+    {   
         static void Main(string[] args)
-        {
+        {   
             string s = "some value";
             s = "Amit";
 

@@ -1,0 +1,13 @@
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.exe
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.dll
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\bin\Debug\netcoreapp3.1\Inheritance.pdb
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.dll
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.pdb
+X:\CAMP\.NET\OOPSQuestions\OOPSQuestions\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

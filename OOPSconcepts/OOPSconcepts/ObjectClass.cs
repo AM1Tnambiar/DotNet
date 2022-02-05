@@ -6,7 +6,7 @@ namespace OOPSconcepts
 {
     class ObjectClass
     {
-        static void Main(string[] args)
+        static void NotMain(string[] args)
         {
            
 

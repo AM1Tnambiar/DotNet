@@ -4,7 +4,7 @@ namespace OOPSconcepts
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             int index;
             //Console.WriteLine("Previous value of index "+index.ToString());
