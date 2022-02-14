@@ -1,0 +1,14 @@
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.exe
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.deps.json
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.runtimeconfig.json
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.runtimeconfig.dev.json
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.dll
+X:\CAMP\.NET\14-02-2022\14-02-2022\bin\Debug\netcoreapp3.1\14-02-2022.pdb
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.csproj.AssemblyReference.cache
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.GeneratedMSBuildEditorConfig.editorconfig
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.AssemblyInfoInputs.cache
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.AssemblyInfo.cs
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.csproj.CoreCompileInputs.cache
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.dll
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.pdb
+X:\CAMP\.NET\14-02-2022\14-02-2022\obj\Debug\netcoreapp3.1\14-02-2022.genruntimeconfig.cache
